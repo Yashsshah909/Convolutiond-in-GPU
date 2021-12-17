@@ -1,1 +1,1 @@
-# Convolution-in-GPU
+# Convolutions-in-GPU
