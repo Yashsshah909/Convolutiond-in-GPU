@@ -11,3 +11,7 @@ and all its neighbouring elements. The type of modification depends on the kerne
 As convolution contains a lot of arithmetic operations (multiplication and additions), performing
 such operations on the GPU devices, that are specifically designed for image and graphics
 processing that would increase the performance of the overall system.
+
+
+In this project we will implement the convolution algorithm a total of 3 times, in the CPU, in the
+GPU with the use of constant memory and in the GPU with the use of shared memory.
